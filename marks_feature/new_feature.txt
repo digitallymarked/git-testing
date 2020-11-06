@@ -1,2 +1,0 @@
-new component
-added code to new component
