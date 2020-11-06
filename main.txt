@@ -2,5 +2,12 @@ This is my first item
 Pepi added some lines here
 I've made some changes to this line
 Added some more code to the file
+<<<<<<< feature/pepi-feature
 New line here
 More code on this file
+=======
+
+
+
+
+>>>>>>> Lot's of lines added
