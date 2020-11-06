@@ -3,3 +3,6 @@ Pepi added some lines here
 I've made some changes to this line
 Added some more code to the file
 Fixed all the errors on this line
+New line here
+More code on this file
+I've added my new things in the file
