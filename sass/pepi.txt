@@ -1,1 +1,2 @@
 this is my brand new file with the new folder structure
+made changes to this file
